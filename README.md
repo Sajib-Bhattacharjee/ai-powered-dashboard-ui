@@ -8,6 +8,24 @@
 
 The Dashboard UI project is a modern and responsive user interface built using HTML, CSS, and JavaScript. It provides a structured layout with navigation, widgets, and interactive elements to enhance user experience.
 
+
+---
+
+<div align="center">
+
+## `AI-Powered Dashboard UI`
+
+## 🌟 **Live Preview** 🌟
+
+💕 [**AI-Powered Dashboard UI**](https://dashboardui2025.netlify.app/) 💕
+
+🎉 Click to explore the fun and laughter! 😄
+
+
+
+</div>
+
+
 ✨ **Features**
 
 - ✅ Responsive design for multiple screen sizes
